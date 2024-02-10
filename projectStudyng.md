@@ -109,7 +109,7 @@ npm i ioredis
 
 ### BIBLIOTECA WEBSOCKET FASTIFY
 
-
+<https://github.com/fastify/fastify-websocket>
 ```
 npm i @fastify/websocket
 ```
